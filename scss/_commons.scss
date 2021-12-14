@@ -4,7 +4,7 @@ $fondo: #aabbaa;
 $tprincipal: #153959;
 $tsecundario: #034c8c;
 $color: #8c0327;
-$fondoClaro: #d9b0a7;
+$fondoClaro: #e8b1a8;
 
 $w-100: 100%;
 $w-80: 80%;
@@ -26,7 +26,7 @@ $dark:          $fondo;
 $bordes:( 
 	azul:#153959,
 	bordo:#8c0327,
-	rosa:#d9b0a7);
+	rosa:$fondoClaro);
 
 @each $name-borde, $bg-borde in $bordes{
 	.borde-#{$name-borde}{

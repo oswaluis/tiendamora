@@ -32,7 +32,7 @@ body {
   border-color: #8c0327; }
 
 .borde-rosa {
-  border-color: #d9b0a7; }
+  border-color: #e8b1a8; }
 
 .radio-10 {
   border-radius: 10px; }
@@ -7988,7 +7988,7 @@ footer a i {
     color: #fff; }
 
 footer {
-  background-color: #d9b0a7; }
+  background-color: #e8b1a8; }
   footer a {
     text-decoration: none;
     color: #8c0327; }
@@ -7997,7 +7997,6 @@ footer {
 
 .logoFooter {
   height: 40px;
-  border: solid 0.5px;
   border-radius: 25%; }
 
 .menuItem {
@@ -8021,15 +8020,14 @@ footer {
       color: #fff; }
 
 .subMenu2:hover {
-  background-color: #d9b0a7; }
+  background-color: #e8b1a8; }
 
 .logoPrincipal {
   height: 60px;
-  border: solid 0.5px;
   border-radius: 25%; }
 
 #botonera {
-  background-color: #d9b0a7; }
+  background-color: #e8b1a8; }
 
 #navbarSupportedContent ul li a {
   color: #8c0327; }
@@ -8049,6 +8047,9 @@ footer {
   top: 60%;
   width: 100%;
   text-align: center; }
+
+.errortexto:hover {
+  color: #fff; }
 
 .div__titulo {
   font-family: Permanent Marker, cursive;
@@ -8143,7 +8144,7 @@ form {
 
 .inputCon:focus {
   border: 3px solid #8c0327;
-  background-color: #d9b0a7;
+  background-color: #e8b1a8;
   box-sizing: border-box; }
 
 .labelForm {
